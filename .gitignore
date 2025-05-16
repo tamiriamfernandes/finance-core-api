@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs
+/src/financial/bin/Debug/net7.0
+/src/financial/obj
+/src/financial.Application/bin/Debug/net7.0
+/src/financial.Core/bin/Debug/net7.0
+/src/financial.Core/obj/Debug/net7.0
+/src/financial.Core/obj
+/src/financial.Infrastructure/bin/Debug/net7.0
+/src/financial.Infrastructure/obj
+/src/financial.Model/bin/Debug/net7.0
+/src/financial.Model/obj
+/src/financial.Tests/bin/Debug/net7.0
+/src/financial.Tests/obj
